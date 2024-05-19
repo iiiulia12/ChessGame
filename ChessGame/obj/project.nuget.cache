@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "kZAJ2gIuJNx+QVJTLxY+ddtMWZE1+fMKZoZhEiCobl9UXM3PByiOnY50CP38CLbcGXRsdoQA5kf1f+/fZw+lSQ==",
+  "success": true,
+  "projectFilePath": "D:\\FACk\\anul 3\\sem2\\ChessGame\\ChessGame\\ChessGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IULIA\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\IULIA\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\IULIA\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\IULIA\\.nuget\\packages\\system.drawing.common\\8.0.4\\system.drawing.common.8.0.4.nupkg.sha512",
+    "C:\\Users\\IULIA\\.nuget\\packages\\system.resources.extensions\\8.0.0\\system.resources.extensions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

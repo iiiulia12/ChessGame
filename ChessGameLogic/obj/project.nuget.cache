@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fx7kmQEJVwyWPKZcAsKr5yHfvjJO+DrpYwPRcTs9a531gWhWPOO4pyeukKcA7p2WHwiS9HYOR7LCgJtXtMtOuQ==",
+  "success": true,
+  "projectFilePath": "D:\\FACk\\anul 3\\sem2\\ChessGame\\ChessGameLogic\\ChessGameLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IULIA\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\IULIA\\.nuget\\packages\\system.drawing.common\\8.0.4\\system.drawing.common.8.0.4.nupkg.sha512",
+    "C:\\Users\\IULIA\\.nuget\\packages\\system.resources.extensions\\8.0.0\\system.resources.extensions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
